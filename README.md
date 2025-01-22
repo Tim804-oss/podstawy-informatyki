@@ -1,2 +1,2 @@
 # podstawy-informatyki
-sci
+sci++++++++
