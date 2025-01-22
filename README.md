@@ -1,2 +1,3 @@
 # podstawy-informatyki
 sci++++++++
+poprawka
